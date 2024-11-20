@@ -1,0 +1,29 @@
+{
+  "InputFioState" : {
+    "InputFio" : "Для регистрации введите полностью ваше ФИО в форме «Петров Иван Федорович».",
+    "NotFoundEmployee" : "Такого сотрудника не существует [{0}], вводите ФИО в порядке Фамилия Имя Отчество",
+    "FoundManyEmployees" : "Найдено более одного сотрудника с таким ФИО, введи свою рабочую почту."
+  },
+  "InputEmailState" : {
+    "InputEmail" : "Для регистрации введите вашу рабочую почту.",
+    "NotFoundEmail" : "Не найдена почта [{0}], попробуйте ввести снова."
+  },
+  "ConfirmCodeState" : {
+    "InputCode" : "Введите код подтверждения почты.",
+    "FailConfirmation" : "Не совпадает код регистрации, в доступе отказано.",
+    "SuccessConfirmation" : "Регистрация в системе выполнена успешно."
+  },
+  "MainState" : {
+    "NotExpectedMessage" : "Нежданчик",
+    "NoActiveIncidents" : "Нет активных инцидентов",
+    "InputCommentToCancelIncident" : "Введите комментарий причины невозможности прийти",
+    "ArrivalIsRegistered" : "Записал прибытие на инцидент",
+    "NotArrivalIsRegistered" : "Уведомление о невозможности прибытия отправил руководителю",
+    "ArrivedIncidentBtn" : "Прибыл на место возникновения инцидента",
+    "CancelIncidentBtn" : "Отсутствует возможность прибытия",
+    "ActiveIncidentsBtn" : "Активные инциденты",
+    "CancelCommentBtn" : "Отмена",
+    "CancelCommentIncident" : "Комментирование инцидента отменено",
+    "ExecutorNotArrivedNotificationEmailSubject" : "Отсутствует возможность прибытия на инцидент."
+  }
+}
